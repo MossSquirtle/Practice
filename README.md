@@ -92,5 +92,5 @@ As soon as Rage connected, the user would become disobedient and would be unable
 Multi-hit moves dealt the same amount of damage for each hit in a turn, meaning that if the first hit was a critical hit, the other hits would be critical hits as well.
 # Credits
 Enoch Pace- Creator
-"Fan Designator" - Co-Creator
-Check out his work ^^^^^^^^^^
+    "Fan Designator" - Co-Creator , I researched his information for this.
+
