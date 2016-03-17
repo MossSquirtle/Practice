@@ -1,14 +1,24 @@
 # Introduction
  Hello, this website is just going to be me typing about mathematics in 7th grade. If you need help in math and dont understand something , you can always just come here and read about my 7th grade mathematics.
+
  
  # Adding And Subtracting Integers
  So when you're adding or subtracting integers theres a few things to keep in mind and remember. A: Same sign add and keep, different sign subtract and keep the sign of the largest number.
+
+
  Example: 5+7
+ 
+ 
          ^  ^ Both are positive numbers, so add them.  5+7=12
+         
+         
          -7 + 8 
+         
+         
           ^   ^ Different signs, so subtract and keep the sign of the larger number. -7 + 8 = 1
 Now try some problems for yourself ( Problems are not mine, link to website:http://www.homeschoolmath.net/worksheets/grade_7.php
 Other Link, http://www.homeschoolmath.net/worksheets/table.php?type=%2B&long=0&col=2&row=10&min1=-30&max1=30&step1=1&list1=&min2=-30&max2=30&step2=1&list2=&min3=&max3=&step3=1&list3=&M=2&D=2&xdiv=1&exd=1&font=Arial&FontSize=14pt&pad=25&ptitle=&Submit=Submit )
+
 
 1 a.	24  +  20  =  ______
 1 b.	17  +  (-5)  =  ______
